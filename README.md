@@ -1,3 +1,23 @@
+# *Required :
+- node / npm
+- react
+- amplify
+ 
+# How to install ?
+`apt-get install node` 
+
+`npm install -g create-react-app`
+
+`npm install -g aws-amplify aws-amplify-react`
+
+`npm install aws-amplify aws-amplify-react`
+
+`npm install -g @aws-amplify/cli`
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +89,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # todoer-demo
+
+Commands :
+
+`amplify add auth`
+
+`amplify push`
+
+`amplify add api`
+GraphQL > Amazon Cognito User Pool > 
+
+
